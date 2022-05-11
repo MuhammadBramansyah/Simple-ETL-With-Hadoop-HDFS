@@ -1,0 +1,22 @@
+{
+    "postgresql":{
+        "host":"localhost",
+        "user":"postgres",
+        "password":221299,
+        "database":"digitalskola",
+        "port":5432
+    },
+    
+    "datawarehouse":{
+        "host":"localhost",
+        "user":"postgres",
+        "password":221299,
+        "database":"dwh_digitalskola",
+        "port":5432
+    },
+    
+    "hadoop":{
+        "ip":"http://localhost:9870",
+        "user":"DigitalSkola"
+    }
+}
