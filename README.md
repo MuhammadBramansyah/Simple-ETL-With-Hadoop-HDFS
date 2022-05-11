@@ -7,7 +7,7 @@ Simple ETL Batch Proecessing with mapreduce implementation
 1. Postgresql
 
 ## Data lake 
-1. HDFS
+1. Hadoop HDFS
 
 ## Data Warehouse 
 1. Postgresql
